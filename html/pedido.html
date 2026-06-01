@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pedido - Raízes do Nordeste</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="login-card">
+
+        <img src="../img/logo.png" alt="Logo" class="logo">
+
+        <h1>Monte seu Pedido</h1>
+
+        <div class="produtos">
+
+            <label>
+                <input type="checkbox" value="15">
+                Cuscuz Nordestino - R$15
+            </label>
+
+            <label>
+                <input type="checkbox" value="18">
+                Tapioca Especial - R$18
+            </label>
+
+            <label class="indisponivel">
+                <input type="checkbox" disabled>
+                Baião de Dois (Indisponível)
+            </label>
+
+        </div>
+
+        <h3 id="total">
+            Total: R$0
+        </h3>
+
+        <button id="btnPedido">
+            Finalizar Pedido
+        </button>
+
+        <button id="btnCancelar">
+            Cancelar Pedido
+        </button>
+
+        <p id="mensagem"></p>
+
+    </div>
+
+</div>
+
+<script src="../js/pedido.js"></script>
+
+</body>
+</html>
