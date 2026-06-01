@@ -406,7 +406,7 @@ parciais ou inconsistentes.
 
 ## 4. Arquitetura da Solução e Qualidade
 
-![Diagrama de Arquitetura](diagrama-arquitetura.png)
+![Diagrama de Arquitetura](./evidencias/diagrama_arquitetura.png)
 
 ### 4.1 Descrição da Arquitetura da Solução
 
@@ -548,7 +548,7 @@ partes.
 
 ### 4.7 Diagrama de Caso de Uso
 
-![Diagrama de Caso de Uso](diagrama-caso-uso.png)
+![Diagrama de Caso de Uso](./evidencias/diagrama-caso-uso.png)
 
 **Caso de Uso:** Realizar Pedido  
 **Ator principal:** Cliente  
