@@ -26,61 +26,29 @@ Trilha: Qualidade de Software
 
 ### 1.1 Contexto do Estudo de Caso
 
-A Rede **Raízes do Nordeste** é uma empresa em expansão no
-segmento de lanchonetes, fundada em Recife com o propósito de
-levar a culinária nordestina ao cotidiano urbano, aliando
-qualidade, agilidade e valorização da identidade cultural.
+A Rede “Raízes do Nordeste” é uma empresa em expansão no segmento de lanchonetes, fundada em Recife com o propósito de levar a culinária nordestina ao cotidiano urbano, aliando qualidade, agilidade e valorização da identidade cultural.
 
-Com o crescimento da operação, a rede passou a atuar em múltiplos
-canais de atendimento incluindo aplicativo, totens de
-autoatendimento, atendimento presencial e retirada rápida, o que
-exige padronização da experiência do cliente e maior controle
-sobre os processos operacionais.
+Com o crescimento da operação, a rede passou a atuar em múltiplos canais de atendimento incluindo aplicativo, totens de autoatendimento, atendimento presencial e retirada rápida, o que exige padronização da experiência do cliente e maior controle sobre os processos operacionais.
 
-Cada unidade possui autonomia na gestão de equipe, estoque e
-metas, enquanto a franqueadora acompanha, em tempo real,
-indicadores estratégicos como vendas, desempenho por unidade,
-produtos mais consumidos e operações financeiras sensíveis.
+Cada unidade possui autonomia na gestão de equipe, estoque e metas, enquanto a franqueadora acompanha, em tempo real, indicadores estratégicos como vendas, desempenho por unidade, produtos mais consumidos e operações financeiras sensíveis.
 
-Adicionalmente, a empresa implementou um programa de fidelização
-de clientes e realiza integrações com serviços de pagamento
-externos, o que exige atenção à segurança da informação, à
-conformidade com a LGPD e ao tratamento adequado de dados
-pessoais.
+Adicionalmente, a empresa implementou um programa de fidelização de clientes e realiza integrações com serviços de pagamento externos, o que exige atenção à segurança da informação, à conformidade com a LGPD e ao tratamento adequado de dados pessoais.
+
 
 ---
 
 ### 1.2 Objetivo do Trabalho
 
-Este trabalho tem como objetivo estruturar uma estratégia completa
-de Garantia da Qualidade de Software para o sistema digital
-integrado da Rede Raízes do Nordeste, com foco em suportar uma
-operação escalável, padronizada e orientada à experiência do
-cliente.
+Este trabalho tem como objetivo estruturar uma estratégia completa de Garantia da Qualidade de Software para o sistema digital integrado da Rede Raízes do Nordeste, com foco em suportar uma operação escalável, padronizada e orientada à experiência do cliente.
 
-A proposta busca não apenas validar o funcionamento do sistema,
-mas garantir que ele atenda aos requisitos de negócio, oferecendo
-confiabilidade, segurança e desempenho adequados para um ambiente
-real de franquias.
+A proposta busca não apenas validar o funcionamento do sistema, mas garantir que ele atenda aos requisitos de negócio, oferecendo confiabilidade, segurança e desempenho adequados para um ambiente real de franquias.
 
-O foco é aplicar, na prática, conceitos de Engenharia de
-Requisitos e Garantia da Qualidade de Software. Para isso, serão
-realizadas atividades como o levantamento e definição dos
-requisitos (funcionais e não funcionais), a criação de critérios
-de aceitação claros, o planejamento dos testes em diferentes
-níveis, além da definição de métricas e indicadores de qualidade.
+O focoé aplicar, na prática, conceitos de Engenharia de Requisitos e Garantia da Qualidade de Software. Para isso, serão realizadas atividades como o levantamento e definição dos requisitos (funcionais e não funcionais), a criação de critérios de aceitação claros, o planejamento dos testes em diferentes níveis, além da definição de métricas e indicadores de qualidade.
 
-Também são considerados pontos importantes como a análise de
-riscos, a adequação à LGPD (Lei Geral de Proteção de Dados
-Pessoais) e a organização da rastreabilidade entre requisitos,
-testes e evidências, garantindo maior controle sobre todo o
-processo.
+Também são considerados pontos importantes como a análise de riscos, a adequação à LGPD (Lei Geral de Proteção de Dados Pessoais) e a organização da rastreabilidade entre requisitos, testes e evidências, garantindo maior controle sobre todo o processo.
 
-Ao final, a ideia é contribuir para que o sistema apresente
-atributos essenciais como confiabilidade, desempenho, segurança,
-usabilidade, escalabilidade e facilidade de manutenção, seguindo
-uma abordagem mais organizada e preventiva em relação à
-qualidade.
+Ao final, a ideia é contribuir para que o sistema apresente atributos essenciais, como confiabilidade, desempenho, segurança, usabilidade, escalabilidade e facilidade de manutenção, seguindo uma abordagem mais organizada e preventiva em relação à qualidade.
+
 
 ---
 
@@ -942,4 +910,11 @@ Nordeste esperam em qualquer unidade.
 
 ## 9. Referências
 
-*(a preencher com sua lista)*
+•	BRASIL. Lei nº 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais (LGPD). Diário Oficial da União: Brasília, DF, 15 ago. 2018.
+•	KRUNO. Manual de Qualidade de Software. Disponível em: https://kruno-doing-qa.vercel.app/
+•	YOUTUBE. Conceito de teste unitário. Disponível em: https://youtu.be/U20MwzXvb34.
+•	YOUTUBE. Como reportar andamento de testes. Disponível em: https://youtu.be/onprMSKjplk. 
+•	YOUTUBE. Como executar e criar evidências de testes. Disponível em: https://youtu.be/wncGM0Dmxbs. 
+•	YOUTUBE. Como criar cenários de testes. Disponível em: https://youtu.be/d3L78k3drkY. 
+•	UNINTER. Material da disciplina de Teste de Software. 
+•	UNINTER. Material da disciplina de Testes de Aplicativos Móveis.
