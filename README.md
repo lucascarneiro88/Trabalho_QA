@@ -1,3 +1,4 @@
+[TRABALHO QA LUCAS atualizado.docx](https://github.com/user-attachments/files/28531268/TRABALHO.QA.LUCAS.atualizado.docx)
 # UNINTER — CENTRO UNIVERSITÁRIO INTERNACIONAL
 Curso de Análise e Desenvolvimento de Sistemas
 
