@@ -1,9 +1,17 @@
-[TRABALHO QA LUCAS atualizado.docx](https://github.com/user-attachments/files/28531268/TRABALHO.QA.LUCAS.atualizado.docx)
+
 # UNINTER — CENTRO UNIVERSITÁRIO INTERNACIONAL
 Curso de Análise e Desenvolvimento de Sistemas
 
 PROJETO MULTIDISCIPLINAR  
 Trilha: Qualidade de Software
+
+
+## Documento Acadêmico Oficial
+
+- O trabalho  completo pode ser acessado no arquivo abaixo:
+[TRABALHO.QA.LUCAS.docx](https://github.com/user-attachments/files/28533477/TRABALHO.QA.LUCAS.docx)
+
+
 
 # Rede "Raízes do Nordeste"
 
