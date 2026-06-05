@@ -9,7 +9,8 @@ Trilha: Qualidade de Software
 ## Documento Acadêmico Oficial
 
 - O trabalho  completo pode ser acessado no arquivo abaixo:
-[TRABALHO.QA.LUCAS.docx](https://github.com/user-attachments/files/28533477/TRABALHO.QA.LUCAS.docx)
+[TRABALHO.QA.LUCAS.pdf](https://github.com/user-attachments/files/28647713/TRABALHO.QA.LUCAS.pdf)
+
 
 
 
